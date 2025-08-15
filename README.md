@@ -71,9 +71,12 @@ Fill in the required health details.
 
 Click Predict to get the result.
 
-🖼 Screenshots
-Home Page[https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png]
-Prediction Example[https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png]
+🖼 **Screenshots**
+
+[![Home Page](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)
+
+[![Prediction Example](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)
+
 
 📌 Features
 ✅ Predicts 4 major diseases with one platform
