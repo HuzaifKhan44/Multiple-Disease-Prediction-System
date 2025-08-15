@@ -77,6 +77,7 @@ Click Predict to get the result.
 
 
 
+
 📌 Features
 ✅ Predicts 4 major diseases with one platform
 ✅ Fast & User-friendly interface
@@ -92,4 +93,4 @@ Pull requests are welcome! If you have ideas for new diseases or model improveme
 👤 Author
 Huzaif Ulla Khan
 📧 khuzaif319@gmail.com
-🔗 GitHub | LinkedIn
+🔗 GitHub:https://github.com/HuzaifKhan44 | LinkedIn:www.linkedin.com/in/huzaif-ulla-khan
