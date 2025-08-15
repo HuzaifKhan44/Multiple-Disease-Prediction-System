@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="(https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/pic.png)" width="80" height="80">
   <br>
   Multiple Disease Prediction System
 </h1>
@@ -73,9 +72,13 @@ Click Predict to get the result.
 
 🖼 Screenshots
 Home Page
-<p align="center"> <a href="https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png"> <img src="screenshots/Image1.png" width="600" /> </a> </p>
+<div>
+  <a href="#screenshots">
+</div>
 Prediction Example
-<p align="center"> <a href="https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png"> <img src="screenshots/Image2.png" width="600" /> </a> </p>
+<div>
+ <a href="#screenshots">
+</div>
 📌 Features
 ✅ Predicts 4 major diseases with one platform
 ✅ Fast & user-friendly interface
