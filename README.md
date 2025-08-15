@@ -71,23 +71,14 @@ Fill in the required health details.
 
 Click Predict to get the result.
 
-Screenshots
-<p align="center">
-  <a href="https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png">
-    <img src="screenshots/Image1.png" width="600" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png">
-    <img src="screenshots/Image1.png" width="600" />
-  </a>
-</p>
-
-
-
+🖼 Screenshots
+Home Page
+<p align="center"> <a href="https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png"> <img src="screenshots/Image1.png" width="600" /> </a> </p>
+Prediction Example
+<p align="center"> <a href="https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png"> <img src="screenshots/Image2.png" width="600" /> </a> </p>
 📌 Features
 ✅ Predicts 4 major diseases with one platform
-✅ Fast & User-friendly interface
+✅ Fast & user-friendly interface
 ✅ Powered by trained ML models
 ✅ Works on any device
 
@@ -99,5 +90,5 @@ Pull requests are welcome! If you have ideas for new diseases or model improveme
 
 👤 Author
 Huzaif Ulla Khan
-📧 khuzaif319@gmail.com
-🔗 GitHub:https://github.com/HuzaifKhan44 | LinkedIn:www.linkedin.com/in/huzaif-ulla-khan
+📧 Email: khuzaif319@gmail.com
+🔗 GitHub | LinkedIn
