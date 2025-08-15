@@ -81,12 +81,12 @@ streamlit run app.py
 
 ### Home Page
 <div align="center">
-  <img src="[screenshots/Image1.png](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/d6c9a5adc5e28317fc38ba284ad0447166e3baaf/screenshots/Image1.png)" alt="Home Page" width="800">
+  <img src="(https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/d6c9a5adc5e28317fc38ba284ad0447166e3baaf/screenshots/Image1.png)" alt="Home Page" width="800">
 </div>
 
 ### Prediction
 <div align="center">
-  <img src="screenshots/Image2.png" alt="Prediction" width="800">
+  <img src="(https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/d6c9a5adc5e28317fc38ba284ad0447166e3baaf/screenshots/Image2.png)" alt="Prediction" width="800">
 </div>
 
 
