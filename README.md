@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Medical_icon.png" alt="Logo" width="80" height="80">
+  <img src="https://l1nq.com/5HI8h" alt="Logo" width="80" height="80">
   <br>
   Multiple Disease Prediction System
 </h1>
@@ -10,10 +10,7 @@
   <a href="https://your-live-demo-link.com" target="_blank"><strong>🚀 Live Demo</strong></a> • 
   <a href="#installation">📦 Installation</a> •
   <a href="#usage">💻 Usage</a> •
-  <a href="[![Home Page](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)
-
-[![Prediction Example](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)
-">🖼 Screenshots</a>
+  <a href="#screenshots">🖼 Screenshots</a>
 </p>
 
 ---
@@ -74,10 +71,17 @@ Fill in the required health details.
 
 Click Predict to get the result.
 
-[![Home Page]](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)
-
-[![Prediction Example]](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)
-
+Screenshots
+<p align="center">
+  <a href="https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png">
+    <img src="screenshots/Image1.png" width="600" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png">
+    <img src="screenshots/Image1.png" width="600" />
+  </a>
+</p>
 
 
 
