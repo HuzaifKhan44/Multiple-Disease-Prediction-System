@@ -10,7 +10,10 @@
   <a href="https://your-live-demo-link.com" target="_blank"><strong>🚀 Live Demo</strong></a> • 
   <a href="#installation">📦 Installation</a> •
   <a href="#usage">💻 Usage</a> •
-  <a href="#screenshots">🖼 Screenshots</a>
+  <a href="[![Home Page](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)
+
+[![Prediction Example](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)
+">🖼 Screenshots</a>
 </p>
 
 ---
