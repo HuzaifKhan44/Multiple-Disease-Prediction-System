@@ -73,9 +73,8 @@ Click Predict to get the result.
 
 🖼 **Screenshots**
 
-[![Home Page](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image1.png)
-
-[![Prediction Example](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)](https://github.com/HuzaifKhan44/Multiple-Disease-Prediction-System/blob/main/screenshots/Image2.png)
+[![Home Page](screenshots/Image1.png)](screenshots/Image1.png)  
+[![Prediction Example](screenshots/Image2.png)](screenshots/Image2.png)
 
 
 📌 Features
