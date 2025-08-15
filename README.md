@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://l1nq.com/5HI8h" width="80" height="80">
+  <img src=""C:\Users\khuza\Downloads\ChatGPT Image Aug 15, 2025, 11_57_13 PM.png"" width="80" height="80">
   <br>
   Multiple Disease Prediction System
 </h1>
